@@ -1,0 +1,8 @@
+database name : hostelmanagementsystem
+username : root
+password : ""
+
+PHP version 7.1.4
+JAVA jdk 1.8, jre 1.8
+
+tables : admin, student, rooms
